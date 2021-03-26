@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFusdcZWa0pDfrNp6T0Ia6LI3CkzKiONFPnE1VwHbyiS3T9nc5ps09igL189Jpb4psTS280NAF0dzb2Xi6UIHA==",
+  "success": true,
+  "projectFilePath": "d:\\Source\\AzSampleApp\\SampleWebApp\\SampleWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\codyf\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\codyf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\codyf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\codyf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
